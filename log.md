@@ -9,3 +9,12 @@
 **Link to work:** [Turtle](https://github.com/Mvalexema/100-days-of-code/blob/master/turtle_graph_24012024.py)
 **Link to work:** [Random Walk](https://github.com/Mvalexema/100-days-of-code/blob/master/Random_walk.py)
 
+# 100 Days Of Code - Log
+
+### Day 1: January 25, 2024 
+
+**Today's Progress**: Library code - learning classes.
+
+**Thoughts:** Some extras could be added  - maybe list is not good for the Book class...
+
+**Link to work:** [Library](https://github.com/Mvalexema/100-days-of-code/blob/master/library_25012024.py)
