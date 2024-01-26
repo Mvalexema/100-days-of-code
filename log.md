@@ -26,4 +26,4 @@
 
 **Thoughts:** Better understanding but not fully here yet. 
 
-**Link to work:** [Library](https://github.com/Mvalexema/100-days-of-code/blob/master/library_25012024.py)
+**Link to work:** [Library](https://github.com/Mvalexema/100-days-of-code/blob/master/library_26012024.py)
