@@ -1,68 +1,103 @@
 # Library management app
 
 class Book:
-    def __init__(self, title="", current_borrowers=[], copies=0):
+    def __init__(self, title = " ", copies=0):
 
         self.title = title
-        self.current_borrowers = current_borrowers
         self.copies = copies
 
     def __str__(self):
-        return f"{self.title}, {self.current_borrowers}, {self.copies}"
+        return f"{self.title}, {self.copies}"
     
 
 class User:
 
-    def __init__(self, name, borrowed_books = Book, fines = 0):
+    def __init__(self, name, borrowed_books: list[Book], fines: int=0):
         self.name = name 
         self.borrowed_books = borrowed_books
         self.fines = fines
-
+        
     def __str__(self):
         return f"{self.name}, {self.borrowed_books}, {self.fines}"
 
 
 class Library:
-    def __init__(self, books: list[Book]):
+    def __init__(self, books: list[Book], current_borrowers: list=[]):
         self.books = books
+        self.current_borrowers = current_borrowers
 
-    def checkout_book(self, book_title: str, user: User):
+    def __str__(self):
+        return f"{self.books}, {self.current_borrowers}"
+
+    def checkout_book(self, book_title, user: User):
         if isinstance(book_title, str) == False:
             raise TypeError("Book title must be a string")
                
         for book in self.books:
             if book_title == book.title:
+                print(book_title)
                 if book.copies > 0 and len(user.borrowed_books) < 3:
+                    print(user.borrowed_books)
                     book.copies -= 1
-                    book.current_borrowers.append(user)
+                    self.current_borrowers.append(user)
                     user.borrowed_books.append(book)
+                    break
                     
                 else: 
                     print("The book is unavailable or the user has too many books borrowed")
             else:
-                print("There is no such a book in the Library")
+                print("Please enter a different title")
     
     def return_book(self, book_title:str, user:User):
         
-        fine_ind = int(input("Is this a late return please input '1' if yes and '0' if the book is returned in time: "))
-      #  if fine_ind == 1:
+        for book in user.borrowed_books:
 
+            if book_title == book.title:
+                book.copies += 1
+                user.borrowed_books.remove(book)
+                self.current_borrowers.remove(user)
                 
-        if book_title in user.borrowed_books:
-            book_title.copies += 1
-            user.borrowed_books.remove(book_title)
-            book_title.current_borrowers.remove(user)
-            if fine_ind == 0:
-                user.fines = 0
+                
             else:
-                user.fines +=1
-        else:
-            print("There is no such a title borrowed.")
+                print("There is no such a title borrowed.")
 
-# Creating Users and Books 
-User = ["John", "Ben", "Bill", "Glen", " Sophie", "Adam"]
-Book = ["Spelling Book", "History", "Geomaps", "Japan stories"]
-print(User)
-print (Book)
 
-print("Welcome to the Library! Would you like to borrow a book?")
+book_1 = Book("Spellings", 3)
+book_2 = Book("Japan", 2)
+book_3 = Book("Geomap", 4)
+
+user_1 = User("John", [], 0)
+user_2 = User("Pete", [], 0)
+user_3 = User("Jim", [], 1)
+
+library_1 = Library([book_1, book_2, book_3], [])
+users = [user_1, user_2, user_3]
+print(library_1)
+
+print("Welcome to the Library! \n")
+user_name = input("Please enter your name :").capitalize()
+
+def user_check(user_name):
+    for user in users:
+        if user.name == user_name:
+            return user
+
+user = user_check(user_name)        
+
+
+action = input("Would you like to checkout the book? Y/N  :")
+if action == "Y":
+    title_checkout = input("Please enter the title you would like to checkout: ").capitalize()
+    library_1.checkout_book(title_checkout, user)
+else: 
+    return_book = input("Please enter the title you would like to return: ").capitalize()
+    fine_ind = int(input("Please enter '1' if this is a late return :"))
+    if fine_ind == 1:
+        user = user_name
+        user.fines +=1
+    else:
+        print("Thank you to timely return.")
+
+    library_1.return_book(return_book, user_name)
+
+print(user_1)

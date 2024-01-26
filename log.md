@@ -18,3 +18,12 @@
 **Thoughts:** Some extras could be added  - maybe list is not good for the Book class...
 
 **Link to work:** [Library](https://github.com/Mvalexema/100-days-of-code/blob/master/library_25012024.py)
+# 100 Days Of Code - Log
+
+### Day 2: January 26, 2024 
+
+**Today's Progress**: Library code - continue working, some debugging improved the code (break). 
+
+**Thoughts:** Better understanding but not fully here yet. 
+
+**Link to work:** [Library](https://github.com/Mvalexema/100-days-of-code/blob/master/library_25012024.py)
