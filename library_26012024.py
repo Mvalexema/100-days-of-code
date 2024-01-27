@@ -27,7 +27,7 @@ class Library:
         self.current_borrowers = current_borrowers
 
     def __str__(self):
-        return f"{self.books}, {self.current_borrowers}"
+        return f"{[book.title for book in self.books]}, {self.current_borrowers}"
 
     def checkout_book(self, book_title, user: User):
         if isinstance(book_title, str) == False:
@@ -46,7 +46,7 @@ class Library:
                 else: 
                     print("The book is unavailable or the user has too many books borrowed")
             else:
-                print("Please enter a different title")
+                break
     
     def return_book(self, book_title:str, user:User):
         
@@ -93,11 +93,16 @@ else:
     return_book = input("Please enter the title you would like to return: ").capitalize()
     fine_ind = int(input("Please enter '1' if this is a late return :"))
     if fine_ind == 1:
-        user = user_name
         user.fines +=1
     else:
         print("Thank you to timely return.")
 
-    library_1.return_book(return_book, user_name)
+    library_1.return_book(return_book, user)
 
 print(user_1)
+print(user_2)
+print(user_3)
+
+print(book_1)
+print(book_2)
+print(book_3)
