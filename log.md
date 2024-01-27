@@ -27,3 +27,12 @@
 **Thoughts:** Better understanding but not fully here yet. 
 
 **Link to work:** [Library](https://github.com/Mvalexema/100-days-of-code/blob/master/library_26012024.py)
+
+### Day 3: January 27, 2024 
+
+**Today's Progress**: Exploratory Data Analysis - learning functions, charts. 
+
+**Thoughts:** Looks rather affordable, but need to spend more time on that. 
+
+**Link to work:** [EDA - Tech stocks](hhttps://github.com/Mvalexema/100-days-of-code/blob/master/Tech_analysis.ipynb)
+
