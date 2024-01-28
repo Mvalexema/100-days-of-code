@@ -36,3 +36,13 @@
 
 **Link to work:** [EDA - Tech stocks](hhttps://github.com/Mvalexema/100-days-of-code/blob/master/Tech_analysis.ipynb)
 
+### Day 4: January 28, 2024 
+
+**Today's Progress**: Drawing painting - dots from Hirst pallette with Dr. Angela Yu. 
+
+**Thoughts:** Working in Pycharm, installation of packages, Turtle package used 
+
+**Link to work:** [Painting dots with Turtle](https://github.com/Mvalexema/100-days-of-code/commit/78f101eef6e17fa4e964559bfda96cdbdc98ebd6)
+
+
+
