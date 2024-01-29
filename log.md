@@ -44,5 +44,14 @@
 
 **Link to work:** [Painting dots with Turtle](https://github.com/Mvalexema/100-days-of-code/commit/78f101eef6e17fa4e964559bfda96cdbdc98ebd6)
 
+### Day 5: January 29, 2024 
+
+**Today's Progress**: EDA - working on scatterplots with labels. 
+
+**Thoughts:** It is still unclear what to do with overlapped labels and need nicer-looking charts (fonts, colors, sizes) 
+
+**Link to work:** [EDA - scatteplots with labels](https://github.com/Mvalexema/100-days-of-code/blob/master/Tech_analysis.ipynb)
+
+
 
 
