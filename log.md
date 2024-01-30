@@ -52,6 +52,13 @@
 
 **Link to work:** [EDA - scatteplots with labels](https://github.com/Mvalexema/100-days-of-code/blob/master/Tech_analysis.ipynb)
 
+### Day 6: January 30, 2024 
+
+**Today's Progress**: High-Low Card game. 
+
+**Thoughts:** While loop example 
+
+**Link to work:** [High-Low card game](https://github.com/Mvalexema/100-days-of-code/blob/master/high_low_cards_play_30012024.ipynb)
 
 
 
