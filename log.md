@@ -61,4 +61,11 @@
 **Link to work:** [High-Low card game](https://github.com/Mvalexema/100-days-of-code/blob/master/high_low_cards_play_30012024.ipynb)
 
 
+### Day 7: January 31, 2024 
+
+**Today's Progress**: Linear regression - insurance expenses vs age. 
+
+**Thoughts:** Slicing the table was not obvious. 
+
+**Link to work:** [High-Low card game](https://github.com/Mvalexema/100-days-of-code/blob/master/Liner_regression_challenge_31012024.ipynb)
 
