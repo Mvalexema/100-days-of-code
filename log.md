@@ -69,3 +69,11 @@
 
 **Link to work:** [High-Low card game](https://github.com/Mvalexema/100-days-of-code/blob/master/Liner_regression_challenge_31012024.ipynb)
 
+### Day 8: February 1, 2024 
+
+**Today's Progress**: Multiple and Linear regression - diabetes file from kaggle. 
+
+**Thoughts:** Learning to work with data. Way to go. 
+
+**Link to work:** [Multiple and linear regressions.](https://github.com/Mvalexema/100-days-of-code/blob/master/LMultiple_regression_diabetes_01022024.ipynb)
+
