@@ -75,5 +75,18 @@
 
 **Thoughts:** Learning to work with data. Way to go. 
 
-**Link to work:** [Multiple and linear regressions.](https://github.com/Mvalexema/100-days-of-code/blob/master/LMultiple_regression_diabetes_01022024.ipynb)
+**Link to work:** [Multiple and linear regressions.](https://github.com/Mvalexema/100-days-of-code/blob/master/Multiple_regression_diabetes_01022024.ipynb)
 
+### Day 9: February 2, 2024 
+
+**Today's Progress**: Multiple Logistic regression - diabetes (smaller file from kaggle)
+**Thoughts:** Learning to process the file
+
+**Link to work:** [Multiple and linear regressions.](https://github.com/Mvalexema/100-days-of-code/blob/master/Multiple_regression_diabetes_01022024.ipynb)
+
+### Day 10: February 3, 2024 
+
+**Today's Progress**: Multiple Logistic regression completed - diabetes (smaller file from kaggle)
+**Thoughts:** Learning to process and complete the file
+
+**Link to work:** [Multiple and linear regressions.](https://github.com/Mvalexema/100-days-of-code/blob/master/Multiple_regression_diabetes_03022024.ipynb)
