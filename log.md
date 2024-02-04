@@ -90,3 +90,11 @@
 **Thoughts:** Learning to process and complete the file
 
 **Link to work:** [Multiple logistic regressions.](https://github.com/Mvalexema/100-days-of-code/blob/master/Multiple_regression_diabetes_03022024.ipynb)
+
+
+### Day 11: February 4, 2024 
+
+**Today's Progress**: Turtles coordinates and heading with Dr.Angela Yu
+**Thoughts:** Learning movements with Turtle class.
+
+**Link to work:** [Turtles heading and coordinates.](https://github.com/Mvalexema/100-days-of-code/blob/master/turtle_coordinates.py)
