@@ -98,3 +98,9 @@
 **Thoughts:** Learning movements with Turtle class.
 
 **Link to work:** [Turtles heading and coordinates.](https://github.com/Mvalexema/100-days-of-code/blob/master/turtle_coordinates.py)
+
+### Day 12: February 5, 2024 
+
+**Today's Progress**: Gaming system using txt and py files
+**Thoughts:** Learning to do file system for gaming 
+**Link to work:** [Turtles heading and coordinates.](https://github.com/Mvalexema/100-days-of-code/blob/master/gaming_system_05022024.ipynb)
