@@ -104,3 +104,9 @@
 **Today's Progress**: Gaming system using txt and py files
 **Thoughts:** Learning to do file system for gaming 
 **Link to work:** [Turtles heading and coordinates.](https://github.com/Mvalexema/100-days-of-code/blob/master/gaming_system_05022024.ipynb)
+
+### Day 13: February 6, 2024 
+
+**Today's Progress**: Decision trees
+**Thoughts:** Learning about decision trees 
+**Link to work:** [Decision tree with Iris example.](https://github.com/Mvalexema/100-days-of-code/blob/master/decision_tree_example.ipynb)
