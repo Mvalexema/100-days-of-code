@@ -110,3 +110,15 @@
 **Today's Progress**: Decision trees
 **Thoughts:** Learning about decision trees 
 **Link to work:** [Decision tree with Iris example.](https://github.com/Mvalexema/100-days-of-code/blob/master/decision_tree_example.ipynb)
+
+### Day 14: February 7, 2024 
+
+**Today's Progress**: Squirrel count - csv
+**Thoughts:** Squirrel count using csv - different ways to do
+**Link to work:** [csv reading - squirrel example.](https://github.com/Mvalexema/100-days-of-code/blob/master/Squirrel_count)
+
+### Day 15: February 8, 2024 
+
+**Today's Progress**: US states game using csv
+**Thoughts:** Using csv and pandas 
+**Link to work:** [US states game.](https://github.com/Mvalexema/100-days-of-code/blob/master/US States Game)
