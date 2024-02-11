@@ -122,3 +122,21 @@
 **Today's Progress**: US states game using csv
 **Thoughts:** Using csv and pandas 
 **Link to work:** [US states game.](https://github.com/Mvalexema/100-days-of-code/blob/master/US States Game)
+
+### Day 16: February 9, 2024 
+
+**Today's Progress**: Texas real estate data
+**Thoughts:** EDA - Texas real estate data from kaggle 
+**Link to work:** [US states game.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
+
+### Day 17: February 10, 2024 
+
+**Today's Progress**: Texas real estate data
+**Thoughts:** Regression analysis - Texas real estate data from kaggle 
+**Link to work:** [US states game.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
+
+### Day 18: February 11, 2024 
+
+**Today's Progress**: Texas real estate data
+**Thoughts:** Multiple Regression - Texas real estate data from kaggle 
+**Link to work:** [US states game.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
