@@ -140,3 +140,9 @@
 **Today's Progress**: Texas real estate data
 **Thoughts:** Multiple Regression - Texas real estate data from kaggle 
 **Link to work:** [US states game.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
+
+### Day 18: February 12, 2024 
+
+**Today's Progress**: Create pdf file with fpdf
+**Thoughts:** Main challenge was with the virtual environment, and the next is to learn details of page landscaping(not done yet) 
+**Link to work:** [US states game.](https://github.com/Mvalexema/100-days-of-code/blob/master/Simple_pdf.doc.py)
