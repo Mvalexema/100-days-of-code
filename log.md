@@ -121,28 +121,41 @@
 
 **Today's Progress**: US states game using csv
 **Thoughts:** Using csv and pandas 
-**Link to work:** [US states game.](https://github.com/Mvalexema/100-days-of-code/blob/master/US States Game)
+**Link to work:** [US states game](https://github.com/Mvalexema/100-days-of-code/blob/master/US States Game)
 
 ### Day 16: February 9, 2024 
 
 **Today's Progress**: Texas real estate data
 **Thoughts:** EDA - Texas real estate data from kaggle 
-**Link to work:** [US states game.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
+**Link to work:** [Texas RE market.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
 
 ### Day 17: February 10, 2024 
 
 **Today's Progress**: Texas real estate data
 **Thoughts:** Regression analysis - Texas real estate data from kaggle 
-**Link to work:** [US states game.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
+**Link to work:** [Texas RE.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
 
 ### Day 18: February 11, 2024 
 
 **Today's Progress**: Texas real estate data
 **Thoughts:** Multiple Regression - Texas real estate data from kaggle 
-**Link to work:** [US states game.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
+**Link to work:** [Real Estate - Texas.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
 
-### Day 18: February 12, 2024 
+### Day 19: February 12, 2024 
 
 **Today's Progress**: Create pdf file with fpdf
 **Thoughts:** Main challenge was with the virtual environment, and the next is to learn details of page landscaping(not done yet) 
-**Link to work:** [US states game.](https://github.com/Mvalexema/100-days-of-code/blob/master/Simple_pdf.doc.py)
+**Link to work:** [Creating pdf.](https://github.com/Mvalexema/100-days-of-code/blob/master/Simple_pdf.doc.py)
+
+
+### Day 20: February 13, 2024 
+
+**Today's Progress**: Titanic dataset analysis (from Kaggle)
+**Thoughts:** Understanding data before procedding data 
+**Link to work:** [Titnic](https://github.com/Mvalexema/100-days-of-code/blob/master/Titanic)
+
+### Day 21: February 14, 2024 
+
+**Today's Progress**: Titanic dataset analysis (Kaggle)
+**Thoughts:** Should be logistic regression
+**Link to work:** [Titanic.](https://github.com/Mvalexema/100-days-of-code/blob/master/Titanic)
