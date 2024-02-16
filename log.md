@@ -160,8 +160,14 @@
 **Thoughts:** Should be logistic regression
 **Link to work:** [Titanic.](https://github.com/Mvalexema/100-days-of-code/blob/master/Titanic)
 
-### Day 22: February 13, 2024 
+### Day 22: February 15, 2024 
 
 **Today's Progress**: Tkinter GUI
 **Thoughts:** Test window GUI using Tkinter
 **Link to work:** [Tkinter GUI example.](https://github.com/Mvalexema/100-days-of-code/blob/master/tkinter_example.py)
+
+### Day 23: February 16, 2024 
+
+**Today's Progress**: Logistic regression - spam
+**Thoughts:** Identifying spam emails using logistic regression
+**Link to work:** [Tkinter GUI example.](https://github.com/Mvalexema/100-days-of-code/blob/master/spam)
