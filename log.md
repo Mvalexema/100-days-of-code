@@ -170,4 +170,16 @@
 
 **Today's Progress**: Logistic regression - spam
 **Thoughts:** Identifying spam emails using logistic regression
-**Link to work:** [Tkinter GUI example.](https://github.com/Mvalexema/100-days-of-code/blob/master/spam)
+**Link to work:** [Spam logistic regression](https://github.com/Mvalexema/100-days-of-code/blob/master/spam)
+
+### Day 24: February 17, 2024 
+
+**Today's Progress**: Claddification and decision tree
+**Thoughts:** Identifying good and bad apples in the Apple dataset from kaggle
+**Link to work:** [Decision tree  - apple dataset.](https://github.com/Mvalexema/100-days-of-code/blob/master/Apple_classification)
+
+### Day 25: February 18, 2024 
+
+**Today's Progress**: Sentiment analysis effort with nltk
+**Thoughts:** An effort to do a sentiment model using nltk and kaggle tweets dataset - looks like not getting the right result
+**Link to work:** [Sentiment analysis - tweets.](https://github.com/Mvalexema/100-days-of-code/blob/master/Tweets_classification)
