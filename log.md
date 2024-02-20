@@ -183,3 +183,9 @@
 **Today's Progress**: Sentiment analysis effort with nltk
 **Thoughts:** An effort to do a sentiment model using nltk and kaggle tweets dataset - looks like not getting the right result
 **Link to work:** [Sentiment analysis - tweets.](https://github.com/Mvalexema/100-days-of-code/blob/master/Tweets_classification)
+
+Day 26: February 19, 2024 
+
+**Today's Progress**: Movie recommendation using spaCy
+**Thoughts:** Using spaCY to do movie recommendation based on imdb 1000 movies dataset from kaggle
+**Link to work:** [Sentiment analysis - tweets.](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 26. Moview recommendation NLP)
