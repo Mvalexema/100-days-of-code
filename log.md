@@ -189,3 +189,9 @@ Day 26: February 19, 2024
 **Today's Progress**: Movie recommendation using spaCy
 **Thoughts:** Using spaCY to do movie recommendation based on imdb 1000 movies dataset from kaggle
 **Link to work:** [Sentiment analysis - tweets.](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 26. Moview recommendation NLP)
+
+Day 27: February , 202024 
+
+**Today's Progress**: Movie recommendation Version 2.0
+**Thoughts:** Using spaCY to do movie recommendation based on movies_metaset from kaggle
+**Link to work:** [Sentiment analysis - tweets.](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 27. NLP)
