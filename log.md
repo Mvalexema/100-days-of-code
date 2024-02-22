@@ -7,7 +7,7 @@
 **Thoughts:** I need to do more functions.
 
 **Link to work:** [Turtle](https://github.com/Mvalexema/100-days-of-code/blob/master/turtle_graph_24012024.py)
-**Link to work:** [Random Walk](https://github.com/Mvalexema/100-days-of-code/blob/master/Random_walk.py)
+**Link to work:** [Random_Walk](https://github.com/Mvalexema/100-days-of-code/blob/master/Random_walk.py)
 
 # 100 Days Of Code - Log
 
@@ -34,7 +34,7 @@
 
 **Thoughts:** Looks rather affordable, but need to spend more time on that. 
 
-**Link to work:** [EDA - Tech stocks](hhttps://github.com/Mvalexema/100-days-of-code/blob/master/Tech_analysis.ipynb)
+**Link to work:** [EDA_Tech_stocks](hhttps://github.com/Mvalexema/100-days-of-code/blob/master/Tech_analysis.ipynb)
 
 ### Day 4: January 28, 2024 
 
@@ -42,7 +42,7 @@
 
 **Thoughts:** Working in Pycharm, installation of packages, Turtle package used 
 
-**Link to work:** [Painting dots with Turtle](https://github.com/Mvalexema/100-days-of-code/commit/78f101eef6e17fa4e964559bfda96cdbdc98ebd6)
+**Link to work:** [Painting_Turtle](https://github.com/Mvalexema/100-days-of-code/commit/78f101eef6e17fa4e964559bfda96cdbdc98ebd6)
 
 ### Day 5: January 29, 2024 
 
@@ -50,7 +50,7 @@
 
 **Thoughts:** It is still unclear what to do with overlapped labels and need nicer-looking charts (fonts, colors, sizes) 
 
-**Link to work:** [EDA - scatteplots with labels](https://github.com/Mvalexema/100-days-of-code/blob/master/Tech_analysis.ipynb)
+**Link to work:** [EDA_scatteplots](https://github.com/Mvalexema/100-days-of-code/blob/master/Tech_analysis.ipynb)
 
 ### Day 6: January 30, 2024 
 
@@ -58,7 +58,7 @@
 
 **Thoughts:** While loop example 
 
-**Link to work:** [High-Low card game](https://github.com/Mvalexema/100-days-of-code/blob/master/high_low_cards_play_30012024.ipynb)
+**Link to work:** [High_Low_game](https://github.com/Mvalexema/100-days-of-code/blob/master/high_low_cards_play_30012024.ipynb)
 
 
 ### Day 7: January 31, 2024 
@@ -67,7 +67,7 @@
 
 **Thoughts:** Slicing the table was not obvious. 
 
-**Link to work:** [High-Low card game](https://github.com/Mvalexema/100-days-of-code/blob/master/Liner_regression_challenge_31012024.ipynb)
+**Link to work:** [Insurance](https://github.com/Mvalexema/100-days-of-code/blob/master/Liner_regression_challenge_31012024.ipynb)
 
 ### Day 8: February 1, 2024 
 
@@ -75,21 +75,21 @@
 
 **Thoughts:** Learning to work with data. Way to go. 
 
-**Link to work:** [Multiple and linear regressions.](https://github.com/Mvalexema/100-days-of-code/blob/master/Multiple_regression_diabetes_01022024.ipynb)
+**Link to work:** [Multiple_regressions](https://github.com/Mvalexema/100-days-of-code/blob/master/Multiple_regression_diabetes_01022024.ipynb)
 
 ### Day 9: February 2, 2024 
 
 **Today's Progress**: Multiple Logistic regression - diabetes (smaller file from kaggle)
 **Thoughts:** Learning to process the file
 
-**Link to work:** [Multiple logistic regressions.](https://github.com/Mvalexema/100-days-of-code/blob/master/Multiple_regression_diabetes_01022024.ipynb)
+**Link to work:** [Logistic_regression](https://github.com/Mvalexema/100-days-of-code/blob/master/Multiple_regression_diabetes_01022024.ipynb)
 
 ### Day 10: February 3, 2024 
 
 **Today's Progress**: Multiple Logistic regression completed - diabetes (smaller file from kaggle)
 **Thoughts:** Learning to process and complete the file
 
-**Link to work:** [Multiple logistic regressions.](https://github.com/Mvalexema/100-days-of-code/blob/master/Multiple_regression_diabetes_03022024.ipynb)
+**Link to work:** [Logistic_regression](https://github.com/Mvalexema/100-days-of-code/blob/master/Multiple_regression_diabetes_03022024.ipynb)
 
 
 ### Day 11: February 4, 2024 
@@ -97,55 +97,55 @@
 **Today's Progress**: Turtles coordinates and heading with Dr.Angela Yu
 **Thoughts:** Learning movements with Turtle class.
 
-**Link to work:** [Turtles heading and coordinates.](https://github.com/Mvalexema/100-days-of-code/blob/master/turtle_coordinates.py)
+**Link to work:** [Turtles_coordinates.](https://github.com/Mvalexema/100-days-of-code/blob/master/turtle_coordinates.py)
 
 ### Day 12: February 5, 2024 
 
 **Today's Progress**: Gaming system using txt and py files
 **Thoughts:** Learning to do file system for gaming 
-**Link to work:** [Turtles heading and coordinates.](https://github.com/Mvalexema/100-days-of-code/blob/master/gaming_system_05022024.ipynb)
+**Link to work:** [Turtles_game](https://github.com/Mvalexema/100-days-of-code/blob/master/gaming_system_05022024.ipynb)
 
 ### Day 13: February 6, 2024 
 
 **Today's Progress**: Decision trees
 **Thoughts:** Learning about decision trees 
-**Link to work:** [Decision tree with Iris example.](https://github.com/Mvalexema/100-days-of-code/blob/master/decision_tree_example.ipynb)
+**Link to work:** [Decision_tree_Iris_example](https://github.com/Mvalexema/100-days-of-code/blob/master/decision_tree_example.ipynb)
 
 ### Day 14: February 7, 2024 
 
 **Today's Progress**: Squirrel count - csv
 **Thoughts:** Squirrel count using csv - different ways to do
-**Link to work:** [csv reading - squirrel example.](https://github.com/Mvalexema/100-days-of-code/blob/master/Squirrel_count)
+**Link to work:** [csv_reading_squirrel](https://github.com/Mvalexema/100-days-of-code/blob/master/Squirrel_count)
 
 ### Day 15: February 8, 2024 
 
 **Today's Progress**: US states game using csv
 **Thoughts:** Using csv and pandas 
-**Link to work:** [US states game](https://github.com/Mvalexema/100-days-of-code/blob/master/US States Game)
+**Link to work:** [US_states_game](https://github.com/Mvalexema/100-days-of-code/blob/master/US States Game)
 
 ### Day 16: February 9, 2024 
 
 **Today's Progress**: Texas real estate data
 **Thoughts:** EDA - Texas real estate data from kaggle 
-**Link to work:** [Texas RE market.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
+**Link to work:** [Texas_RE_market](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
 
 ### Day 17: February 10, 2024 
 
 **Today's Progress**: Texas real estate data
 **Thoughts:** Regression analysis - Texas real estate data from kaggle 
-**Link to work:** [Texas RE.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
+**Link to work:** [Texas_RE](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
 
 ### Day 18: February 11, 2024 
 
 **Today's Progress**: Texas real estate data
 **Thoughts:** Multiple Regression - Texas real estate data from kaggle 
-**Link to work:** [Real Estate - Texas.](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
+**Link to work:** [Real_Estate_Texas](https://github.com/Mvalexema/100-days-of-code/blob/master/Texas_RE_data)
 
 ### Day 19: February 12, 2024 
 
 **Today's Progress**: Create pdf file with fpdf
 **Thoughts:** Main challenge was with the virtual environment, and the next is to learn details of page landscaping(not done yet) 
-**Link to work:** [Creating pdf.](https://github.com/Mvalexema/100-days-of-code/blob/master/Simple_pdf.doc.py)
+**Link to work:** [Creating_pdf](https://github.com/Mvalexema/100-days-of-code/blob/master/Simple_pdf.doc.py)
 
 
 ### Day 20: February 13, 2024 
@@ -158,46 +158,52 @@
 
 **Today's Progress**: Titanic dataset analysis (Kaggle)
 **Thoughts:** Should be logistic regression
-**Link to work:** [Titanic.](https://github.com/Mvalexema/100-days-of-code/blob/master/Titanic)
+**Link to work:** [Titanic](https://github.com/Mvalexema/100-days-of-code/blob/master/Titanic)
 
 ### Day 22: February 15, 2024 
 
 **Today's Progress**: Tkinter GUI
 **Thoughts:** Test window GUI using Tkinter
-**Link to work:** [Tkinter GUI example.](https://github.com/Mvalexema/100-days-of-code/blob/master/tkinter_example.py)
+**Link to work:** [Tkinter_GUI_example.](https://github.com/Mvalexema/100-days-of-code/blob/master/tkinter_example.py)
 
 ### Day 23: February 16, 2024 
 
 **Today's Progress**: Logistic regression - spam
 **Thoughts:** Identifying spam emails using logistic regression
-**Link to work:** [Spam logistic regression](https://github.com/Mvalexema/100-days-of-code/blob/master/spam)
+**Link to work:** [Spam_logistic_regression](https://github.com/Mvalexema/100-days-of-code/blob/master/spam)
 
 ### Day 24: February 17, 2024 
 
 **Today's Progress**: Claddification and decision tree
 **Thoughts:** Identifying good and bad apples in the Apple dataset from kaggle
-**Link to work:** [Decision tree  - apple dataset.](https://github.com/Mvalexema/100-days-of-code/blob/master/Apple_classification)
+**Link to work:** [Decision tree_apple dataset.](https://github.com/Mvalexema/100-days-of-code/blob/master/Apple_classification)
 
 ### Day 25: February 18, 2024 
 
 **Today's Progress**: Sentiment analysis effort with nltk
 **Thoughts:** An effort to do a sentiment model using nltk and kaggle tweets dataset - looks like not getting the right result
-**Link to work:** [Sentiment analysis - tweets.](https://github.com/Mvalexema/100-days-of-code/blob/master/Tweets_classification)
+**Link to work:** [Sentiment_analysis_tweets.](https://github.com/Mvalexema/100-days-of-code/blob/master/Tweets_classification)
 
 Day 26: February 19, 2024 
 
 **Today's Progress**: Movie recommendation using spaCy
 **Thoughts:** Using spaCY to do movie recommendation based on imdb 1000 movies dataset from kaggle
-**Link to work:** [Sentiment analysis - tweets.](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 26. Moview recommendation NLP)
+**Link to work:** [Sentiment_analysis_tweets](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 26. Moview recommendation NLP)
 
 Day 27: February 20, 2024 
 
 **Today's Progress**: Movie recommendation Version 2.0
 **Thoughts:** Using spaCY to do movie recommendation based on movies_metaset from kaggle
-**Link to work:** [Movie recommendations- spaCy.](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 27. NLP)
+**Link to work:** [Movie_recommendations_spaCy.](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 27. NLP)
 
 Day 28: February 21, 2024 
 
 **Today's Progress**: Articles recommendation using spaCy
 **Thoughts:** Using spaCY to do an example of article recommendations based on user preferences
-**Link to work:** [Article recommendations - spaCy.](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 28. Articles Recommendations)
+**Link to work:** [Article_recommendations_spaCy.](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 28. Articles Recommendations)
+
+Day 29: February 22, 2024 
+
+**Today's Progress**: Learning DecisionTrees
+**Thoughts:** Learning DecisionTrees - loan prediction using kaggle dataset
+**Link to work:** [Loan_prediction.](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 29. LoanPred_DecisionTree)
