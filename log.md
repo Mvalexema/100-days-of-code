@@ -207,3 +207,9 @@ Day 29: February 22, 2024
 **Today's Progress**: Learning DecisionTrees
 **Thoughts:** Learning DecisionTrees - loan prediction using kaggle dataset
 **Link to work:** [Loan_prediction.](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 29. LoanPred_DecisionTree)
+
+Day 30: February 23, 2024 
+
+**Today's Progress**: Functions 
+**Thoughts:** Functions in phyton
+**Link to work:** [Gym_management.](https://github.com/Mvalexema/100-days-of-code/blob/master/gym_management.ipynb )
