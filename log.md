@@ -213,3 +213,16 @@ Day 30: February 23, 2024
 **Today's Progress**: Functions 
 **Thoughts:** Functions in phyton
 **Link to work:** [Gym_management.](https://github.com/Mvalexema/100-days-of-code/blob/master/gym_management.ipynb )
+
+Day 31: February 24, 2024 
+
+**Today's Progress**: Working with financial functions   
+**Thoughts:** Financial functions with digifi
+**Link to work:** [Digifi_yahoo_data](https://github.com/Mvalexema/100-days-of-code/blob/master/Day31_yahoo_Digifi.py)
+
+Day 32: February 25, 2024 
+
+**Today's Progress**: Learning API   
+**Thoughts:** Exercises with API and requests from python
+**Link to work:** [API](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 32. API)
+
