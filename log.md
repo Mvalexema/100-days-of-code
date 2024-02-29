@@ -226,3 +226,27 @@ Day 32: February 25, 2024
 **Thoughts:** Exercises with API and requests from python
 **Link to work:** [API](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 32. API)
 
+Day 33: February 26, 2024 
+
+**Today's Progress**: Reading pdfs   
+**Thoughts:** Reading pdf, writing is not really working
+**Link to work:** [pdfs](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 33. Reading PDFs)
+
+Day 34: February 27, 2024 
+
+**Today's Progress**: Sentiment analysis  
+**Thoughts:** Sentiment analysis using nltk and financial data
+**Link to work:** [Sentiment](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 34. Sentiment analysis)
+
+Day 35: February 28, 2024 
+
+**Today's Progress**: NPL polarity using Amazon data from kaggle   
+**Thoughts:** NPL polarity using textblob
+**Link to work:** [polarity](https://github.com/Mvalexema/100-days-of-code/blob/master/NPL_polarity_example.ipynb)
+
+Day 36: February 29, 2024 
+
+**Today's Progress**: Semantic similarity   
+**Thoughts:** Semantic similarity and reading text file into dictionary 
+**Link to work:** [semantic_similarity](https://github.com/Mvalexema/100-days-of-code/blob/master/Semantic_movie.py)
+
