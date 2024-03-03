@@ -250,3 +250,21 @@ Day 36: February 29, 2024
 **Thoughts:** Semantic similarity and reading text file into dictionary 
 **Link to work:** [semantic_similarity](https://github.com/Mvalexema/100-days-of-code/blob/master/Semantic_movie.py)
 
+
+Day 37: March 1, 2024 
+
+**Today's Progress**: Sentiment analysis for Amazon product reviews - using SpaCy   
+**Thoughts:** Part 1 - Looping through the dataframe 
+**Link to work:** [sentiment analysis](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 37-39 Sentiment analysis - Amazon products)
+
+Day 38: March 2, 2024 
+
+**Today's Progress**: Sentiment analysis for Amazon product reviews - using SpaCy   
+**Thoughts:** Part 2 - polarity function 
+**Link to work:** [semantic_similarity](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 37-39 Sentiment analysis - Amazon products)
+
+Day 39: March 3, 2024 
+
+**Today's Progress**: Sentiment analysis for Amazon product reviews - using SpaCy   
+**Thoughts:** Part 3 - Positive and Negative words chart using 
+**Link to work:** [semantic_similarity](https://github.com/Mvalexema/100-days-of-code/blob/master/Day 37-39 Sentiment analysis - Amazon products)
