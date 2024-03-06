@@ -282,3 +282,9 @@ Day 41: March 5, 2024
 **Today's Progress**: Regression using car prices data from kaggle CarPrice_assignment.csv   
 **Thoughts:** linear regression - car price vs horsepower  
 **Link to work:** [regression](https://github.com/Mvalexema/100-days-of-code/blob/master/D40-41_car_price_prediction.ipynb)
+
+Day 42: March 6, 2024 
+
+**Today's Progress**: Little Sister challenge - vocab  
+**Thoughts:** words and strings in python : https://exercism.org/tracks/python/exercises/little-sisters-vocab
+**Link to work:** [regression](https://github.com/Mvalexema/100-days-of-code/blob/master/D42.challenge.py)
