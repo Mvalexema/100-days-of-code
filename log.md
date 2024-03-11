@@ -288,3 +288,28 @@ Day 42: March 6, 2024
 **Today's Progress**: Little Sister challenge - vocab  
 **Thoughts:** words and strings in python : https://exercism.org/tracks/python/exercises/little-sisters-vocab
 **Link to work:** [regression](https://github.com/Mvalexema/100-days-of-code/blob/master/D42.challenge.py)
+
+
+Day 43: March 7, 2024 
+
+**Today's Progress**: Clusterisation  - Mall customers  
+**Thoughts:** clusterisation in python - used Mall_Customers file from kaggle.com
+**Link to work:** [clusters](https://github.com/Mvalexema/100-days-of-code/blob/master/D43-44.mall_customers_clusterisation)
+
+Day 44: March 8, 2024 
+
+**Today's Progress**: Clusterisation  - Mall customers  
+**Thoughts:** clusterisation in python - used Mall_Customers file from kaggle.com
+**Link to work:** [clusters](https://github.com/Mvalexema/100-days-of-code/blob/master/D43-44.mall_customers_clusterisation)
+
+Day 45: March 9, 2024 
+
+**Today's Progress**: Boat price prediction  
+**Thoughts:** words and strings in python : https://exercism.org/tracks/python/exercises/little-sisters-vocab
+**Link to work:** [price_prediction](https://github.com/Mvalexema/100-days-of-code/blob/master/D45-46.boat_price_pred)
+
+Day 46: March 10, 2024 
+
+**Today's Progress**: Boat price prediction  
+**Thoughts:** words and strings in python : https://exercism.org/tracks/python/exercises/little-sisters-vocab
+**Link to work:** [price_prediction](https://github.com/Mvalexema/100-days-of-code/blob/master/D45-46.boat_price_pred)
