@@ -322,6 +322,13 @@ Day 47: March 11, 2024
 
 Day 48: March 12, 2024 
 
-**Today's Progress**: Neural Network - sigmoid dunction  
+**Today's Progress**: Neural Network - sigmoid function  
 **Thoughts:** example of neurons and sigmoid function
 **Link to work:** [NN](https://github.com/Mvalexema/100-days-of-code/blob/master/D47-48.NeuralNetworkExc.ipynb)
+
+Day 49: March 13, 2024 
+
+**Today's Progress**: paragraph split using nltk  
+**Thoughts:** Paragraph split using nltk
+**Link to work:** [NN](https://github.com/Mvalexema/100-days-of-code/blob/master/D49.paragraph_split.ipynb)
+
