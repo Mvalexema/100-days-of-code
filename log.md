@@ -332,3 +332,17 @@ Day 49: March 13, 2024
 **Thoughts:** Paragraph split using nltk
 **Link to work:** [NN](https://github.com/Mvalexema/100-days-of-code/blob/master/D49.paragraph_split.ipynb)
 
+Day 50: March 14, 2024 
+
+**Today's Progress**: nlp examples  
+**Thoughts:** nlp examples - playng with text
+**Link to work:** [nlp_ex1](https://github.com/Mvalexema/100-days-of-code/blob/master/D50.nlp_text_process_ex1.ipynb)
+
+Day 51: March 15, 2024 
+
+**Today's Progress**: nltk stemming small examples  
+**Thoughts:** using nltk - stemming, tokenization,lemmatization
+**Link to work:** [nltk_ex2](https://github.com/Mvalexema/100-days-of-code/blob/master/D51.paragraph_split.ipynb)
+
+
+
