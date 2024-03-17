@@ -342,7 +342,18 @@ Day 51: March 15, 2024
 
 **Today's Progress**: nltk stemming small examples  
 **Thoughts:** using nltk - stemming, tokenization,lemmatization
-**Link to work:** [nltk_ex2](https://github.com/Mvalexema/100-days-of-code/blob/master/D51.paragraph_split.ipynb)
+**Link to work:** [nltk_ex2](https://github.com/Mvalexema/100-days-of-code/blob/master/D51.nltk_examples.ipynb)
 
+Day 52: March 16, 2024 
+
+**Today's Progress**: nlp text processing examples - Matcher
+**Thoughts:** spaCy nlp - Matcher, stop words
+**Link to work:** [Matcher](https://github.com/Mvalexema/100-days-of-code/blob/master/D52.nlp_ex4.ipynb)
+
+Day 53: March 17, 2024 
+
+**Today's Progress**: nltk stemming small examples  
+**Thoughts:** Text processing - matches, tokens
+**Link to work:** [OwlCreek_text_processing](https://github.com/Mvalexema/100-days-of-code/blob/master/D53.nlp_owl_text.ipynb)
 
 
