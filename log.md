@@ -356,4 +356,22 @@ Day 53: March 17, 2024
 **Thoughts:** Text processing - matches, tokens
 **Link to work:** [OwlCreek_text_processing](https://github.com/Mvalexema/100-days-of-code/blob/master/D53.nlp_owl_text.ipynb)
 
+Day 54: March 18, 2024 
+
+**Today's Progress**: neural network - migraine classification  
+**Thoughts:** Neural network example with migraine classification file from kaggle.com
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/blob/master/D54-56.Neural_network)
+
+Day 55: March 19, 2024 
+
+**Today's Progress**: neural network - migraine classification  
+**Thoughts:** Neural network example with migraine classification file from kaggle.com
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/blob/master/D54-56.Neural_network)
+
+Day 56: March 20, 2024 
+
+**Today's Progress**: neural network - migraine classification  
+**Thoughts:** Neural network example with migraine classification file from kaggle.com
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/blob/master/D54-56.Neural_network)
+
 
