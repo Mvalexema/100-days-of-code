@@ -368,10 +368,33 @@ Day 55: March 19, 2024
 **Thoughts:** Neural network example with migraine classification file from kaggle.com
 **Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D55.Neural_Network_migrane_classification)
 
+
 Day 56: March 20, 2024 
 
-**Today's Progress**: neural network - migraine classification  
-**Thoughts:** Neural network example with migraine classification file from kaggle.com
-**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D55.Neural_Network_migrane_classification)
+**Today's Progress**: Heart disease classification  
+**Thoughts:** Hear disease classification - file from kaggle.com, using Decision tree
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D56-58.Heart_disease)
 
+Day 57: March 21, 2024 
 
+**Today's Progress**: Heart disease classification  
+**Thoughts:** Hear disease classification - file from kaggle.com, using Decision tree
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D56-58.Heart_disease)
+
+Day 58: March 22, 2024 
+
+**Today's Progress**: Heart disease classification  
+**Thoughts:** Hear disease classification - file from kaggle.com, using Decision tree
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D56-58.Heart_disease)
+
+Day 59: March 23, 2024 
+
+**Today's Progress**: Datetime training  
+**Thoughts:** Learning to use datetime in dataframes
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D59-60.Datetime)
+
+Day 60: March 24, 2024 
+
+**Today's Progress**: Datetime  
+**Thoughts:** Datetime in Dataframes
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D59-60.Datetime)
