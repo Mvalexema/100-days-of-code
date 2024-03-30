@@ -398,3 +398,33 @@ Day 60: March 24, 2024
 **Today's Progress**: Datetime  
 **Thoughts:** Datetime in Dataframes
 **Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D59-60.Datetime)
+
+Day 61: March 25, 2024 
+
+**Today's Progress**: NLP  - learning with kaggle  
+**Thoughts:** Emotions dataset from kaggle
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D61-65.Emotions_NLP)
+
+Day 62: March 26, 2024 
+
+**Today's Progress**: Seaborn for Emotions  
+**Thoughts:** Seaborn usage - palettes and fonts
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D61-65.Emotions_NLP)
+
+Day 63: March 27, 2024 
+
+**Today's Progress**: NLP - Emotions  
+**Thoughts:** Learning data cleaning and pre-processing with kaggle
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D61-65.Emotions_NLP)
+
+Day 64: March 28, 2024 
+
+**Today's Progress**: NLP - Emotions  
+**Thoughts:** Data libraries for NLP
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D61-65.Emotions_NLP)
+
+Day 65: March 29, 2024 
+
+**Today's Progress**: NLP - Emotions  
+**Thoughts:** modeling in process
+**Link to work:** [NN_migraine](https://github.com/Mvalexema/100-days-of-code/tree/master/D61-65.Emotions_NLP)
