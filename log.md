@@ -446,3 +446,15 @@ Day 68: April 1, 2024
 **Today's Progress**: Emotions  - LSTM
 **Thoughts:** Calculation 
 **Link to work:** [NLP_Emotions](https://github.com/Mvalexema/100-days-of-code/tree/master/D61-65.Emotions_NLP)
+
+Day 69: April 2, 2024 
+
+**Today's Progress**: ESG scores - dataframes and charts
+**Thoughts:** ESG scores from kaggle.com - look like interesting dataset, however, companies have a bit strage scores so the analysis by industry is just for dataframe issustration. 
+**Link to work:** [ESG](https://github.com/Mvalexema/100-days-of-code/tree/master/D61-65.Emotions_NLP)
+
+Day 70: April 3, 2024 
+
+**Today's Progress**: ESG scores - dataframes and charts
+**Thoughts:** ESG by industry for illustration purposes (not for the actual use - strange data, need some check).  
+**Link to work:** [ESG](https://github.com/Mvalexema/100-days-of-code/tree/master/D68-70_ESG_score)
