@@ -458,3 +458,33 @@ Day 70: April 3, 2024
 **Today's Progress**: ESG scores - dataframes and charts
 **Thoughts:** ESG by industry for illustration purposes (not for the actual use - strange data, need some check).  
 **Link to work:** [ESG](https://github.com/Mvalexema/100-days-of-code/tree/master/D68-70_ESG_score)
+
+Day 71: April 4, 2024 
+
+**Today's Progress**: Tensorflow using keras dataset
+**Thoughts:** Digit images classification using keras dataset - small neural network  
+**Link to work:** [Digit_images_NN](https://github.com/Mvalexema/100-days-of-code/tree/master/D70-75_Tensorflow_NN.ipynb)
+
+Day 72: April 5, 2024 
+
+**Today's Progress**: Tensorflow using keras dataset
+**Thoughts:** Digit images classification using keras dataset - small neural network  
+**Link to work:** [Digit_images_NN](https://github.com/Mvalexema/100-days-of-code/tree/master/D70-75_Tensorflow_NN.ipynb)
+
+Day 73: April 6, 2024 
+
+**Today's Progress**: Tensorflow using keras dataset
+**Thoughts:** Digit images classification using keras dataset - small neural network  
+**Link to work:** [Digit_images_NN](https://github.com/Mvalexema/100-days-of-code/tree/master/D70-75_Tensorflow_NN.ipynb)
+
+Day 74: April 7, 2024 
+
+**Today's Progress**: Tensorflow using keras dataset: https://keras.io/api/datasets/mnist/
+**Thoughts:** Digit images classification using keras dataset - small neural network  
+**Link to work:** [Digit_images_NN](https://github.com/Mvalexema/100-days-of-code/tree/master/D70-75_Tensorflow_NN.ipynb)
+
+Day 75: April 8, 2024 
+
+**Today's Progress**: Tensorflow using keras dataset
+**Thoughts:** Digit images classification using keras dataset - small neural network. https://keras.io/api/datasets/mnist/ 
+**Link to work:** [Digit_images_NN](https://github.com/Mvalexema/100-days-of-code/tree/master/D70-75_Tensorflow_NN.ipynb)
