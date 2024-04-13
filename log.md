@@ -488,3 +488,38 @@ Day 75: April 8, 2024
 **Today's Progress**: Tensorflow using keras dataset
 **Thoughts:** Digit images classification using keras dataset - small neural network. https://keras.io/api/datasets/mnist/ 
 **Link to work:** [Digit_images_NN](https://github.com/Mvalexema/100-days-of-code/tree/master/D70-75_Tensorflow_NN.ipynb)
+
+
+Day 76: April 9, 2024 
+
+**Today's Progress**: Freedom index clustering
+**Thoughts:**  Clustering using KMean, Freedom index dataset from kaggle.com
+**Link to work:** [Freedom_index](https://github.com/Mvalexema/100-days-of-code/tree/master/D76-77_freedom_index)
+
+
+Day 77: April 10, 2024 
+
+**Today's Progress**: Freedom index
+**Thoughts:** Clustering using KMean, Freedom index dataset from kaggle.com 
+**Link to work:** [Freedom_index](https://github.com/Mvalexema/100-days-of-code/tree/master/D76-77_freedom_index)
+
+
+Day 78: April 11, 2024 
+
+**Today's Progress**: Customer clustering using kaggle dataset
+**Thoughts:** learning unsupervised ML - clustering using Agglomerative clustering  
+**Link to work:** [Customer_clustering](https://github.com/Mvalexema/100-days-of-code/tree/master/D78_Customer_clustering)
+
+
+Day 79: April 12, 2024 
+
+**Today's Progress**: Mall customer clustering - kaggle dataset
+**Thoughts:** Hierarchical clustering 
+**Link to work:** [Hierarchical_clustering](https://github.com/Mvalexema/100-days-of-code/tree/master/D79. Hierarchical_clustering_mall)
+
+
+Day 80: April 13, 2024 
+
+**Today's Progress**: Mall customer clustering - kaggle dataset
+**Thoughts:** Hierarchical clustering 
+**Link to work:** [Hierarchical_clustering](https://github.com/Mvalexema/100-days-of-code/tree/master/D79. Hierarchical_clustering_mall)
