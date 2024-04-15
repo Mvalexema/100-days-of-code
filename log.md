@@ -515,23 +515,23 @@ Day 79: April 12, 2024
 
 **Today's Progress**: Mall customer clustering - kaggle dataset
 **Thoughts:** Hierarchical clustering 
-**Link to work:** [Hierarchical_clustering](https://github.com/Mvalexema/100-days-of-code/tree/master/D79. Hierarchical_clustering_mall)
+**Link to work:** [Hierarchical_clustering](https://github.com/Mvalexema/100-days-of-code/tree/master/D79.%20Hierarchical_clustering_mall)
 
 
 Day 80: April 13, 2024 
 
 **Today's Progress**: Mall customer clustering - kaggle dataset
 **Thoughts:** Hierarchical clustering 
-**Link to work:** [Hierarchical_clustering](https://github.com/Mvalexema/100-days-of-code/tree/master/D79. Hierarchical_clustering_mall)
+**Link to work:** [Hierarchical_clustering](https://github.com/Mvalexema/100-days-of-code/tree/master/D79.%20Hierarchical_clustering_mall)
 
 Day 81: April 14, 2024 
 
 **Today's Progress**: Learning fake vs real news with kaggle  
 **Thoughts:** Fake vs real news model using sklearn, TfidfVectorizer and Logistic regression
-**Link to work:** [Fake_news](https://github.com/Mvalexema/100-days-of-code/tree/master/D81-82. Fake_news)
+**Link to work:** [Fake_news](https://github.com/Mvalexema/100-days-of-code/tree/master/D81-82.%20Fake_news)
 
 Day 82: April 15, 2024 
 
 **Today's Progress**: Learning fake vs real news with kaggle
 **Thoughts:** Fake vs real news model using sklearn, TfidfVectorizer and Logistic regression
-**Link to work:** [Fake_news](https://github.com/Mvalexema/100-days-of-code/tree/master/D81-82. Fake_news)
+**Link to work:** [Fake_news](https://github.com/Mvalexema/100-days-of-code/tree/master/D81-82.%20Fake_news)
