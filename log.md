@@ -530,8 +530,29 @@ Day 81: April 14, 2024
 **Thoughts:** Fake vs real news model using sklearn, TfidfVectorizer and Logistic regression
 **Link to work:** [Fake_news](https://github.com/Mvalexema/100-days-of-code/tree/master/D81-82.%20Fake_news)
 
+
 Day 82: April 15, 2024 
 
 **Today's Progress**: Learning fake vs real news with kaggle
 **Thoughts:** Fake vs real news model using sklearn, TfidfVectorizer and Logistic regression
 **Link to work:** [Fake_news](https://github.com/Mvalexema/100-days-of-code/tree/master/D81-82.%20Fake_news)
+
+Day 83: April 16, 2024 
+
+**Today's Progress**: Learning finance libraries
+**Thoughts:** Using Degifi library for portfolio optimisation. Results are mixed. Stocks corrected vs their 'normal' historical levels are recommended. However, risks are different now. Need forecasts and model to develop something meaningfull.
+**Link to work:** [Portfolio](https://github.com/Mvalexema/100-days-of-code/tree/master/D83-85_portfolio_analysis)
+
+Day 84: April 17, 2024 
+
+**Today's Progress**: Learning finance libraries
+**Thoughts:** Using Degifi library for portfolio optimisation. 
+**Link to work:** [Portfolio](https://github.com/Mvalexema/100-days-of-code/tree/master/D83-85_portfolio_analysis)
+
+Day 85: April 18, 2024 
+
+**Today's Progress**: LLearning finance libraries
+**Thoughts:** Using Degifi library for portfolio optimisation. 
+**Link to work:** [Portfolio](https://github.com/Mvalexema/100-days-of-code/tree/master/D83-85_portfolio_analysis)
+
+
