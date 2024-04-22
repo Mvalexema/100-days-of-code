@@ -551,8 +551,25 @@ Day 84: April 17, 2024
 
 Day 85: April 18, 2024 
 
-**Today's Progress**: LLearning finance libraries
+**Today's Progress**: Learning finance libraries
 **Thoughts:** Using Degifi library for portfolio optimisation. 
 **Link to work:** [Portfolio](https://github.com/Mvalexema/100-days-of-code/tree/master/D83-85_portfolio_analysis)
 
+Day 86: April 19, 2024 
 
+**Today's Progress**: Learning SQL
+**Thoughts:** Learning SQL with J.Portilla Complete SQL Bootcamp - CREATE TABLE etc
+**Link to work:** [SQL_table](https://github.com/Mvalexema/100-days-of-code/tree/master/data-1713816463055_D86_88.csv)
+
+Day 87: April 20, 2024 
+
+**Today's Progress**: Learning SQL
+**Thoughts:** Learning SQL with J.Portilla Complete SQL Bootcamp. INSERT etc
+**Link to work:** [SQL_table](https://github.com/Mvalexema/100-days-of-code/tree/master/data-1713817036686_D86_88.csv)
+
+
+Day 88: April 21, 2024 
+
+**Today's Progress**: Learning SQL
+**Thoughts:** Learning SQL with J.Portilla Complete SQL Bootcamp. INSERT INTO, learning Constraints
+**Link to work:** [SQL_table](https://github.com/Mvalexema/100-days-of-code/tree/master/data-1713817036686_D86_88.csv)

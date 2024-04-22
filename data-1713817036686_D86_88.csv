@@ -1,0 +1,5 @@
+"stock_id","name","ticker","price_close","mkt_cap","number_shares"
+1,"Apple","AAPL.O",165,2547,15442
+2,"Amazon","AMZN.O",177,1815,10397
+3,"Alphabet","GOOGL.O",156,1925,7652
+4,"Snowflake","SNOW",145,48,334
