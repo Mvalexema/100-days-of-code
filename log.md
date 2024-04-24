@@ -573,3 +573,15 @@ Day 88: April 21, 2024
 **Today's Progress**: Learning SQL
 **Thoughts:** Learning SQL with J.Portilla Complete SQL Bootcamp. INSERT INTO, learning Constraints
 **Link to work:** [SQL_table](https://github.com/Mvalexema/100-days-of-code/tree/master/data-1713817036686_D86_88.csv)
+
+Day 89: April 22, 2024 
+
+**Today's Progress**: Cancer data - regression
+**Thoughts:** Cancer data set from kaggle. Regression model is applied using different features
+**Link to work:** [Cancer_data](https://github.com/Mvalexema/100-days-of-code/tree/master/D89-90_Cancer_data)
+
+Day 90: April 23, 2024 
+
+**Today's Progress**: Cancer data - regression
+**Thoughts:** Cancer data set from kaggle. Regression model is applied using different features. The fileis not completed yet.
+**Link to work:** [Cancer_data](https://github.com/Mvalexema/100-days-of-code/tree/master/D89-90_Cancer_data)
