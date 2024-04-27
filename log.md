@@ -585,3 +585,22 @@ Day 90: April 23, 2024
 **Today's Progress**: Cancer data - regression
 **Thoughts:** Cancer data set from kaggle. Regression model is applied using different features. The fileis not completed yet.
 **Link to work:** [Cancer_data](https://github.com/Mvalexema/100-days-of-code/tree/master/D89-90_Cancer_data)
+
+
+Day 91: April 24, 2024 
+
+**Today's Progress**: Churn clustering
+**Thoughts:** Using K-Means for clustering
+**Link to work:** [Churn_clusters](https://github.com/Mvalexema/100-days-of-code/tree/master/D91-93_Churn_model)
+
+Day 92: April 25, 2024 
+
+**Today's Progress**: Churn clustering
+**Thoughts:** Using K-Means for clustering
+**Link to work:** [Churn_clusters](https://github.com/Mvalexema/100-days-of-code/tree/master/D91-93_Churn_model)
+
+Day 93: April 26, 2024 
+
+**Today's Progress**: Churn clustering
+**Thoughts:** Using K-Means for clustering
+**Link to work:** [Churn_clusters](https://github.com/Mvalexema/100-days-of-code/tree/master/D91-93_Churn_model)
