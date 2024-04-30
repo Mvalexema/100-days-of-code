@@ -604,3 +604,27 @@ Day 93: April 26, 2024
 **Today's Progress**: Churn clustering
 **Thoughts:** Using K-Means for clustering
 **Link to work:** [Churn_clusters](https://github.com/Mvalexema/100-days-of-code/tree/master/D91-93_Churn_model)
+
+Day 94: April 27, 2024 
+
+**Today's Progress**: Anglo American bid - news coverage sentiment on a small pack of data collected from Internet
+**Thoughts:** Using sentiment analysis for news collected from Internet - articles from 25 to 30 April covering the proposed bid of BHP on Anglo American
+**Link to work:** [AAL_bid](https://github.com/Mvalexema/100-days-of-code/tree/master/D94-97_Sentiment_AAL_bid)
+
+Day 95: April 28, 2024 
+
+**Today's Progress**: Anglo American bid - news coverage sentiment on a small pack of data collected from Internet
+**Thoughts:** Using sentiment analysis for news collected from Internet - articles from 25 to 30 April covering the proposed bid of BHP on Anglo American
+**Link to work:** [AAL_bid](https://github.com/Mvalexema/100-days-of-code/tree/master/D94-97_Sentiment_AAL_bid)
+
+Day 96: April 29, 2024 
+
+**Today's Progress**: Anglo American bid - news coverage sentiment on a small pack of data collected from Internet
+**Thoughts:** Using sentiment analysis for news collected from Internet - articles from 25 to 30 April covering the proposed bid of BHP on Anglo American
+**Link to work:** [AAL_bid](https://github.com/Mvalexema/100-days-of-code/tree/master/D94-97_Sentiment_AAL_bid)
+
+Day 97: April 30, 2024 
+
+**Today's Progress**: Anglo American bid - news coverage sentiment on a small pack of data collected from Internet
+**Thoughts:** Using sentiment analysis for news collected from Internet - articles from 25 to 30 April covering the proposed bid of BHP on Anglo American
+**Link to work:** [AAL_bid](https://github.com/Mvalexema/100-days-of-code/tree/master/D94-97_Sentiment_AAL_bid)
