@@ -628,3 +628,21 @@ Day 97: April 30, 2024
 **Today's Progress**: Anglo American bid - news coverage sentiment on a small pack of data collected from Internet
 **Thoughts:** Using sentiment analysis for news collected from Internet - articles from 25 to 30 April covering the proposed bid of BHP on Anglo American
 **Link to work:** [AAL_bid](https://github.com/Mvalexema/100-days-of-code/tree/master/D94-97_Sentiment_AAL_bid)
+
+Day 98: May 1, 2024 
+
+**Today's Progress**: Liver cirrhosis classification
+**Thoughts:** Using kaggle dataset for classification. 
+**Link to work:** [Liver_cirr](https://github.com/Mvalexema/100-days-of-code/tree/master/D98_100_Liver_cirr_class)
+
+Day 99: May 2, 2024 
+
+**Today's Progress**: Liver cirrhosis classification
+**Thoughts:** Using kaggle dataset for classification. 
+**Link to work:** [Liver_cirr](https://github.com/Mvalexema/100-days-of-code/tree/master/D98_100_Liver_cirr_class)
+
+Day 100: May 3, 2024 
+
+**Today's Progress**: Liver cirrhosis classification
+**Thoughts:** Using kaggle dataset for classification. 
+**Link to work:** [Liver_cirr](https://github.com/Mvalexema/100-days-of-code/tree/master/D98_100_Liver_cirr_class)
